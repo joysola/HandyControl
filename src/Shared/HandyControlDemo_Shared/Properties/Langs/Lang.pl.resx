@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Controls" xml:space="preserve">
-    <value>کنترل ها</value>
+    <value>Kontrolki</value>
   </data>
   <data name="Styles" xml:space="preserve">
-    <value>استایل ها</value>
+    <value>Style</value>
   </data>
   <data name="Growl" xml:space="preserve">
     <value>Growl</value>
   </data>
   <data name="GrowlInfo" xml:space="preserve">
-    <value>امروز روز خوبی است ~~~</value>
+    <value>Mamy dziś piękny dzień~~~</value>
   </data>
   <data name="GrowlSuccess" xml:space="preserve">
-    <value>پرونده با موفقیت ذخیره شد!</value>
+    <value>Pomyślnie zapisano plik!</value>
   </data>
   <data name="GrowlWarning" xml:space="preserve">
-    <value>فضای دیسک در حال اتمام است!</value>
+    <value>Kończy się miejsce na dysku!</value>
   </data>
   <data name="GrowlError" xml:space="preserve">
-    <value>ارتباط ناموفق بود. لطفا شبکه خود را بررسی کنید!</value>
+    <value>Połączenie nieudane. sprawdź swoje połączenie sieciowe!</value>
   </data>
   <data name="GrowlFatal" xml:space="preserve">
-    <value>برنامه خراب شد~~~</value>
+    <value>Program się wypłaszczył~~~</value>
   </data>
   <data name="GrowlAsk" xml:space="preserve">
-    <value>نسخه جدیدی کشف شد! آیا می خواهید بروزرسانی کنید؟</value>
+    <value>Znaleziono nową wersję! Czy chcesz zaktualizować?</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Loading</value>
@@ -169,7 +169,7 @@
     <value>Pagination</value>
   </data>
   <data name="OpenImageBrowser" xml:space="preserve">
-    <value>برای باز کردن مرورگر تصویر کلیک کنید</value>
+    <value>Click to open image browser</value>
   </data>
   <data name="ProgressBar" xml:space="preserve">
     <value>ProgressBar</value>
@@ -198,9 +198,6 @@
   <data name="Primary" xml:space="preserve">
     <value>Primary</value>
   </data>
-  <data name="Success" xml:space="preserve">
-    <value>Success</value>
-  </data>
   <data name="Info" xml:space="preserve">
     <value>Info</value>
   </data>
@@ -211,31 +208,31 @@
     <value>Danger</value>
   </data>
   <data name="ButtonCustom" xml:space="preserve">
-    <value>Custom button</value>
+    <value>Niestandardowy przycisk</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>عنوان</value>
+    <value>Tytuł</value>
   </data>
   <data name="StepBar" xml:space="preserve">
     <value>StepBar</value>
   </data>
   <data name="Prev" xml:space="preserve">
-    <value>قبلی</value>
+    <value>Prev</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>بعدی</value>
+    <value>Next</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>ثبت نام</value>
+    <value>Register</value>
   </data>
   <data name="BasicInfo" xml:space="preserve">
-    <value>اطلاعات اصلی را پر کنید</value>
+    <value>Wypełnij podstawowe informacje</value>
   </data>
   <data name="UploadFile" xml:space="preserve">
-    <value>آپلود فایل</value>
+    <value>Wyślij plik</value>
   </data>
   <data name="Complete" xml:space="preserve">
-    <value>تکمیل</value>
+    <value>Complete</value>
   </data>
   <data name="Clock" xml:space="preserve">
     <value>Clock</value>
@@ -253,25 +250,25 @@
     <value>TextBox</value>
   </data>
   <data name="ContentDemoStr" xml:space="preserve">
-    <value>این محتوا است</value>
+    <value>To jest zawartość</value>
   </data>
   <data name="TitleDemoStr1" xml:space="preserve">
-    <value>این عنوان است</value>
+    <value>To jest tytuł</value>
   </data>
   <data name="TitleDemoStr2" xml:space="preserve">
-    <value>این مورد باید پر شود</value>
+    <value>Ten element musi zostać wypełniony</value>
   </data>
   <data name="PlsEnterContent" xml:space="preserve">
-    <value>لطفاً محتوا را وارد کنید</value>
+    <value>Wprowadź słowo zawartość</value>
   </data>
   <data name="TitleDemoStr3" xml:space="preserve">
-    <value>عنوان در سمت چپ است</value>
+    <value>Tytuł jest po lewej stronie</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>متن</value>
+    <value>Text</value>
   </data>
   <data name="SubTitle" xml:space="preserve">
-    <value>عنوان فرعی</value>
+    <value>Podtytuł</value>
   </data>
   <data name="PasswordBox" xml:space="preserve">
     <value>PasswordBox</value>
@@ -289,19 +286,19 @@
     <value>DataGrid</value>
   </data>
   <data name="Index" xml:space="preserve">
-    <value>ایندکس</value>
+    <value>Indeks</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>نام</value>
+    <value>Name</value>
   </data>
   <data name="Type" xml:space="preserve">
-    <value>تایپ کنید</value>
+    <value>Type</value>
   </data>
   <data name="Remark" xml:space="preserve">
-    <value>تذکر</value>
+    <value>Remark</value>
   </data>
   <data name="Selected" xml:space="preserve">
-    <value>انتخاب شد</value>
+    <value>Wybrane</value>
   </data>
   <data name="ListBox" xml:space="preserve">
     <value>ListBox</value>
@@ -319,28 +316,28 @@
     <value>Menu</value>
   </data>
   <data name="RightClickHere" xml:space="preserve">
-    <value>اینجا کلیک راست کنید</value>
+    <value>Kliknij tu prawym przyciskiem myszy</value>
   </data>
   <data name="RadioButton" xml:space="preserve">
     <value>RadioButton</value>
   </data>
   <data name="OpenMessageWindow" xml:space="preserve">
-    <value>پنجره پیام باز شود</value>
+    <value>open message window</value>
   </data>
   <data name="OpenCommonWindow" xml:space="preserve">
-    <value>باز کردن پنجره عادی</value>
+    <value>open common window</value>
   </data>
   <data name="OpenCustomNonClientAreaWindow" xml:space="preserve">
-    <value>پنجره منطقه سفارشی تایتل بار باز شود</value>
+    <value>open custom Non-client Area window</value>
   </data>
   <data name="OpenMouseFollowWindow" xml:space="preserve">
-    <value>پنجره ماوس باز شود</value>
+    <value>open mouse follow window</value>
   </data>
   <data name="OpenCustomContentWindow" xml:space="preserve">
-    <value>باز کردن پنجره با محتوای شخصی</value>
+    <value>open custom content window</value>
   </data>
   <data name="Ignore" xml:space="preserve">
-    <value>چشم پوشی</value>
+    <value>Ignoruj</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
@@ -352,25 +349,25 @@
     <value>Fatal</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>پاک کردن</value>
+    <value>Clear</value>
   </data>
   <data name="ChangeLangAsk" xml:space="preserve">
-    <value>آیا برای تغییر زبان، برنامه مجدداً راه اندازی شود؟</value>
+    <value>Czy uruchomić ponownie aby zmienić język?</value>
   </data>
   <data name="About" xml:space="preserve">
-    <value>درباره</value>
+    <value>Około</value>
   </data>
   <data name="Repository" xml:space="preserve">
-    <value>مخزن</value>
+    <value>Repozytorium</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>ایمیل</value>
+    <value>Email</value>
   </data>
   <data name="Chatroom" xml:space="preserve">
-    <value>اتاق چت</value>
+    <value>Chatroom</value>
   </data>
   <data name="Blog" xml:space="preserve">
-    <value>بلاگ</value>
+    <value>Blog</value>
   </data>
   <data name="Brush" xml:space="preserve">
     <value>Brush</value>
@@ -379,19 +376,19 @@
     <value>PreviewSlider</value>
   </data>
   <data name="Contributors" xml:space="preserve">
-    <value>مشارکت کنندگان</value>
+    <value>Współtwórcy</value>
   </data>
   <data name="Slider" xml:space="preserve">
     <value>Slider</value>
   </data>
   <data name="IsNotPhone" xml:space="preserve">
-    <value>شماره تلفن نیست</value>
+    <value>To nie jest numer telefonu</value>
   </data>
   <data name="PlsEnterEmail" xml:space="preserve">
-    <value>لطفا ایمیل را وارد کنید</value>
+    <value>wprowadź słowo email</value>
   </data>
   <data name="Step" xml:space="preserve">
-    <value>گام</value>
+    <value>Krok</value>
   </data>
   <data name="CalendarWithClock" xml:space="preserve">
     <value>CalendarWithClock</value>
@@ -412,10 +409,10 @@
     <value>ToolBar</value>
   </data>
   <data name="Common" xml:space="preserve">
-    <value>عادی</value>
+    <value>Common</value>
   </data>
   <data name="ShowRowNumber" xml:space="preserve">
-    <value>نمایش تعداد ردیف</value>
+    <value>ShowRowNumber</value>
   </data>
   <data name="SearchBar" xml:space="preserve">
     <value>SearchBar</value>
@@ -430,13 +427,13 @@
     <value>OutlineText</value>
   </data>
   <data name="QQGroup" xml:space="preserve">
-    <value>گروه QQ</value>
+    <value>Grupa QQ</value>
   </data>
   <data name="FlipClock" xml:space="preserve">
     <value>FlipClock</value>
   </data>
   <data name="OpenBlurWindow" xml:space="preserve">
-    <value>باز کردن پنجره بلور</value>
+    <value>Otwórz BlurWindow</value>
   </data>
   <data name="Rate" xml:space="preserve">
     <value>Rate</value>
@@ -457,13 +454,13 @@
     <value>CoverFlow</value>
   </data>
   <data name="PlsEnterKey" xml:space="preserve">
-    <value>لطفاً یک کلمه کلیدی را وارد کنید</value>
+    <value>Wprowadź słowo kluczowe</value>
   </data>
   <data name="OpenNoNonClientAreaDragableWindow" xml:space="preserve">
-    <value>پنجره قابل کشش ناحیه بدون تایتل بار باز شود</value>
+    <value>open no Non-client Area dragable window</value>
   </data>
   <data name="DragHere" xml:space="preserve">
-    <value>اینجا بکش</value>
+    <value>Przeciągnij tutaj</value>
   </data>
   <data name="MessageBox" xml:space="preserve">
     <value>MessageBox</value>
@@ -472,10 +469,10 @@
     <value>ProgressButton</value>
   </data>
   <data name="UploadStr" xml:space="preserve">
-    <value>Upload;Uploading</value>
+    <value>Wyślij;Wysyłanie</value>
   </data>
   <data name="OpenCustomMessageWindow" xml:space="preserve">
-    <value>باز کردن پنجره پیغام شخصی</value>
+    <value>open custom message window</value>
   </data>
   <data name="Transfer" xml:space="preserve">
     <value>Transfer</value>
@@ -484,10 +481,10 @@
     <value>ChatBubble</value>
   </data>
   <data name="PushToTalk" xml:space="preserve">
-    <value>فشار دهید تا صحبت کنید</value>
+    <value>Naciśnij i mów</value>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>ثانیه</value>
+    <value>Sek</value>
   </data>
   <data name="Label" xml:space="preserve">
     <value>Label</value>
@@ -505,73 +502,73 @@
     <value>Gravatar</value>
   </data>
   <data name="ComingSoon" xml:space="preserve">
-    <value>به زودی</value>
+    <value>Wkrótce</value>
   </data>
   <data name="Comment" xml:space="preserve">
     <value>Comment</value>
   </data>
   <data name="Reply" xml:space="preserve">
-    <value>Reply</value>
+    <value>Odpowiedz</value>
   </data>
   <data name="Dialog" xml:space="preserve">
     <value>Dialog</value>
   </data>
   <data name="TextDialog" xml:space="preserve">
-    <value>متن Dialog</value>
+    <value>TextDialog</value>
   </data>
   <data name="PleaseWait" xml:space="preserve">
-    <value>لطفا صبر کنید...</value>
+    <value>Proszę czekać</value>
   </data>
   <data name="GrowlDemo" xml:space="preserve">
-    <value>نسخه ی نمایشی Growl</value>
+    <value>Growl demo</value>
   </data>
   <data name="NewWindow" xml:space="preserve">
-    <value>پنجره جدید</value>
+    <value>Nowe okno</value>
   </data>
   <data name="Visibility" xml:space="preserve">
-    <value>قابلیت دیدن</value>
+    <value>Visibility</value>
   </data>
   <data name="Blink" xml:space="preserve">
-    <value>چشمک زدن</value>
+    <value>Blink</value>
   </data>
   <data name="Exit" xml:space="preserve">
-    <value>خروج</value>
+    <value>Exit</value>
   </data>
   <data name="OpenPanel" xml:space="preserve">
-    <value>پنل را باز کنید</value>
+    <value>Otwórz Panel</value>
   </data>
   <data name="AppClosingTip" xml:space="preserve">
-    <value>نماد سینی باز است و به جای بستن برنامه ، پنجره را پنهان می کند</value>
+    <value>Ikona w zasobniku systemowym jest aktywna i przez to okno nie zostanie zamknięte, tylko ukryte</value>
   </data>
   <data name="Tip" xml:space="preserve">
-    <value>بی درنگ</value>
+    <value>Podpowiedź</value>
   </data>
   <data name="Try2CloseApp" xml:space="preserve">
-    <value>سعی کنید برنامه را ببندید؟</value>
+    <value>Chcesz zamknąć aplikację?</value>
   </data>
   <data name="InteractiveDialog" xml:space="preserve">
-    <value>گفتگوی تعاملی</value>
+    <value>Interaktywne okno dialogowe</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>اوکی</value>
+    <value>Ok</value>
   </data>
   <data name="PleaseInput" xml:space="preserve">
-    <value>لطفاً وارد کنید ...</value>
+    <value>Wprowadź dane...</value>
   </data>
   <data name="Click2Count" xml:space="preserve">
-    <value>Click to count</value>
+    <value>Kliknij, aby policzyć</value>
   </data>
   <data name="RepeatButton" xml:space="preserve">
     <value>RepeatButton</value>
   </data>
   <data name="DialogDemo" xml:space="preserve">
-    <value>نسخه ی نمایشی Dialog</value>
+    <value>Demo okna dialogowego</value>
   </data>
   <data name="ShowInCurrentWindow" xml:space="preserve">
-    <value>نمایش در پنجره فعلی</value>
+    <value>Pokaż w tym oknie</value>
   </data>
   <data name="ShowInMainWindow" xml:space="preserve">
-    <value>نمایش در پنجره اصلی</value>
+    <value>Pokaż w głównym oknie</value>
   </data>
   <data name="SideMenu" xml:space="preserve">
     <value>SideMenu</value>
@@ -580,28 +577,31 @@
     <value>Grid</value>
   </data>
   <data name="BasicLayout" xml:space="preserve">
-    <value>طرح اولیه</value>
+    <value>Podstawowy układ</value>
   </data>
   <data name="ColumnSpacing" xml:space="preserve">
-    <value>فاصله ستون</value>
+    <value>Rozstaw kolumn</value>
   </data>
   <data name="HybridLayout" xml:space="preserve">
-    <value>طرح ترکیبی</value>
+    <value>Układ hybrydowy</value>
   </data>
   <data name="ColumnOffset" xml:space="preserve">
-    <value>انحراف ستون</value>
+    <value>Przesunięcie kolumny</value>
   </data>
   <data name="ResponsiveLayout" xml:space="preserve">
-    <value>طرح ریسپانسیو</value>
+    <value>Responsywny układ</value>
   </data>
   <data name="Border" xml:space="preserve">
     <value>Border</value>
   </data>
+  <data name="Poptip" xml:space="preserve">
+    <value>Poptip</value>
+  </data>
   <data name="Recommendation" xml:space="preserve">
-    <value>توصیه</value>
+    <value>Rekomendacje</value>
   </data>
   <data name="Project" xml:space="preserve">
-    <value>پروژه</value>
+    <value>Projekt</value>
   </data>
   <data name="RangeSlider" xml:space="preserve">
     <value>RangeSlider</value>
@@ -622,7 +622,7 @@
     <value>Card</value>
   </data>
   <data name="TextDialogWithTimer" xml:space="preserve">
-    <value>متن Dialog با تایمر</value>
+    <value>TextDialog z zegarem</value>
   </data>
   <data name="Magnifier" xml:space="preserve">
     <value>Magnifier</value>
@@ -637,25 +637,25 @@
     <value>HoneycombPanel</value>
   </data>
   <data name="AddItem" xml:space="preserve">
-    <value>یک مورد اضافه کنید</value>
+    <value>Dodaj element</value>
   </data>
   <data name="RemoveItem" xml:space="preserve">
-    <value>یک مورد را حذف کنید</value>
+    <value>Usuń element</value>
   </data>
   <data name="Sprite" xml:space="preserve">
     <value>Sprite</value>
   </data>
   <data name="OpenSprite" xml:space="preserve">
-    <value>اسپرایت را باز کنید</value>
+    <value>Otwórz Sprite</value>
   </data>
   <data name="Notification" xml:space="preserve">
     <value>Notification</value>
   </data>
   <data name="SendNotification" xml:space="preserve">
-    <value>اعلان را ارسال کنید</value>
+    <value>Wyślij powiadomienie</value>
   </data>
   <data name="StaysOpen" xml:space="preserve">
-    <value>باز می ماند</value>
+    <value>Pozostaw otwarte</value>
   </data>
   <data name="FloatingBlock" xml:space="preserve">
     <value>FloatingBlock</value>
@@ -664,19 +664,16 @@
     <value>SplitButton</value>
   </data>
   <data name="Tools" xml:space="preserve">
-    <value>ابزار</value>
+    <value>Tools</value>
   </data>
   <data name="HatchBrushGenerator" xml:space="preserve">
     <value>HatchBrushGenerator</value>
   </data>
   <data name="Morphing Animation" xml:space="preserve">
-    <value>Morphing Animation</value>
+    <value>Animacja przekształcająca</value>
   </data>
   <data name="Divider" xml:space="preserve">
     <value>Divider</value>
-  </data>
-  <data name="Poptip" xml:space="preserve">
-    <value>Poptip</value>
   </data>
   <data name="PoptipPositionStr" xml:space="preserve">
     <value>top-start;top;top-end;right-start;right;right-end;bottom-end;bottom;bottom-start;left-end;left;left-start</value>
@@ -688,25 +685,25 @@
     <value>Drawer</value>
   </data>
   <data name="Documentation" xml:space="preserve">
-    <value>مستندات</value>
+    <value>Dokumentacja</value>
   </data>
   <data name="Effects" xml:space="preserve">
-    <value>Effects</value>
+    <value>Efekty</value>
   </data>
   <data name="Website" xml:space="preserve">
-    <value>سایت</value>
+    <value>Strona internetowa</value>
   </data>
   <data name="Vsix" xml:space="preserve">
     <value>Vsix</value>
   </data>
   <data name="Doc_en" xml:space="preserve">
-    <value>مستندات انگلیسی</value>
+    <value>Angielska dokumentacja</value>
   </data>
   <data name="Doc_cn" xml:space="preserve">
-    <value>مستندات چینی</value>
+    <value>Chińska dokumentacja</value>
   </data>
   <data name="Demo" xml:space="preserve">
-    <value>دمو</value>
+    <value>Demo</value>
   </data>
   <data name="PinBox" xml:space="preserve">
     <value>PinBox</value>
@@ -715,7 +712,7 @@
     <value>FlowDocumentScrollViewer</value>
   </data>
   <data name="OpenGlowWindow" xml:space="preserve">
-    <value>Open glowWindow</value>
+    <value>Otwórz GlowWindow</value>
   </data>
   <data name="FlowDocument" xml:space="preserve">
     <value>FlowDocument</value>
@@ -727,28 +724,28 @@
     <value>FlowDocumentReader</value>
   </data>
   <data name="OpenNativeCommonWindow" xml:space="preserve">
-    <value>Open native common window</value>
+    <value>Otwórz NativeCommonWindow</value>
   </data>
   <data name="OpenNavigationWindow" xml:space="preserve">
-    <value>Open navigation window</value>
+    <value>Otwórz NavigationWindow</value>
   </data>
   <data name="Frame" xml:space="preserve">
     <value>Frame</value>
   </data>
   <data name="PracticalDemos" xml:space="preserve">
-    <value>دموی عملی</value>
+    <value>Praktyczne dema</value>
   </data>
   <data name="StartScreenshot" xml:space="preserve">
-    <value>Start screenshot</value>
+    <value>Zrób zrzut ekranu</value>
   </data>
   <data name="Screenshot" xml:space="preserve">
     <value>Screenshot</value>
   </data>
   <data name="TextDialogInControl" xml:space="preserve">
-    <value>TextDialog(In control)</value>
+    <value>TextDialog (wewnątrz kontrolki)</value>
   </data>
   <data name="LangComment" xml:space="preserve">
-    <value>Looks up a localized string similar to "{0}".</value>
+    <value>Wyszukuje zlokalizowany ciąg podobny do „{0}”.</value>
   </data>
   <data name="PropertyGrid" xml:space="preserve">
     <value>PropertyGrid</value>
@@ -766,22 +763,22 @@
     <value>FlexPanel</value>
   </data>
   <data name="OpenTouchDragMoveWindow" xml:space="preserve">
-    <value>open touch drag move window</value>
+    <value>Otwórz TouchDragMoveWindow</value>
   </data>
   <data name="UniformSpacingPanel" xml:space="preserve">
     <value>UniformSpacingPanel</value>
   </data>
   <data name="Misc" xml:space="preserve">
-    <value>Misc</value>
+    <value>Różne</value>
   </data>
   <data name="Interacting" xml:space="preserve">
     <value>Interacting</value>
   </data>
   <data name="DataEntry" xml:space="preserve">
-    <value>Data Entry</value>
+    <value>Wprowadzanie danych</value>
   </data>
   <data name="DataDisplay" xml:space="preserve">
-    <value>Data Display</value>
+    <value>Wyświetlanie danych</value>
   </data>
   <data name="Navigation" xml:space="preserve">
     <value>Navigation</value>
@@ -790,9 +787,9 @@
     <value>Layout</value>
   </data>
   <data name="Feedback" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Informacje zwrotne</value>
   </data>
-  <data name="Empty" xml:space="preserve">
-    <value>Empty</value>
+  <data name="Success" xml:space="preserve">
+    <value>Success</value>
   </data>
 </root>

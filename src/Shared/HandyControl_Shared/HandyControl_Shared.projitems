@@ -39,6 +39,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\DashedBorder.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\Divider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\Drawer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\Empty.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\Magnifier.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Button\ButtonGroup.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\Other\Card.cs" />
@@ -406,6 +407,7 @@
     <None Include="$(MSBuildThisFileDirectory)Themes\Basic\Brushes.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="$(MSBuildThisFileDirectory)Themes\XamlCombine.exe" />
     <Page Include="$(MSBuildThisFileDirectory)Themes\Basic\Colors\Colors.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -790,9 +792,6 @@
     <None Include="$(MSBuildThisFileDirectory)Themes\Styles\GroupBox.xaml">
       <SubType>Designer</SubType>
     </None>
-    <None Include="$(MSBuildThisFileDirectory)Themes\Styles\Image.xaml">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="$(MSBuildThisFileDirectory)Themes\Styles\ImageViewer.xaml">
       <SubType>Designer</SubType>
     </None>
@@ -919,6 +918,12 @@
     <None Include="$(MSBuildThisFileDirectory)Themes\Styles\Window.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="$(MSBuildThisFileDirectory)Themes\Styles\Base\EmptyBaseStyle.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Themes\Styles\Empty.xaml">
+      <SubType>Designer</SubType>
+    </None>
     <Page Include="$(MSBuildThisFileDirectory)Themes\Theme.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -1004,5 +1009,9 @@
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Resources\Icons\HandyControl.Controls.Watermark.icon.bmp" />
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Resources\Icons\HandyControl.Controls.WatermarkTextBox.icon.bmp" />
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Resources\Icons\HandyControl.Controls.WaveProgressBar.icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Themes\Theme_40.txt" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\Theme_GE45.txt" />
   </ItemGroup>
 </Project>

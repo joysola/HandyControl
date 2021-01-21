@@ -8,6 +8,11 @@
     <NoWarn>0108;MSB3026;MSB3061</NoWarn>
     <MSBuildWarningsAsMessages>NETSDK1138</MSBuildWarningsAsMessages>
     <UseWPF>true</UseWPF>
+    <Copyright>Copyright © HandyOrg 2018-2021</Copyright>
+    <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <FileVersion>3.1.0.0</FileVersion>
+    <Version>3.1.0.0</Version>
+    <RepositoryUrl>https://github.com/HandyOrg/HandyControl</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup Condition="$(TargetFramework.StartsWith('net4'))">
     <Reference Include="Microsoft.CSharp" />
@@ -184,6 +189,9 @@
     </Resource>
     <Resource Include="..\..\Shared\HandyControlDemo_Shared\Resources\Img\Flag\pt-BR.png">
       <Link>Resources\Img\Flag\pt-BR.png</Link>
+    </Resource>
+    <Resource Include="..\..\Shared\HandyControlDemo_Shared\Resources\Img\Flag\pl.png">
+      <Link>Resources\Img\Flag\pl.png</Link>
     </Resource>
     <Resource Include="..\..\Shared\HandyControlDemo_Shared\Resources\Img\Flag\ru.png">
       <Link>Resources\Img\Flag\ru.png</Link>
@@ -526,6 +534,9 @@
     <EmbeddedResource Include="..\..\Shared\HandyControlDemo_Shared\Properties\Langs\Lang.pt-BR.resx">
       <Link>Properties\Langs\Lang.pt-BR.resx</Link>
     </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Shared\HandyControlDemo_Shared\Properties\Langs\Lang.pl.resx">
+      <Link>Properties\Langs\Lang.pl.resx</Link>
+    </EmbeddedResource>
     <EmbeddedResource Include="..\..\Shared\HandyControlDemo_Shared\Properties\Langs\Lang.ru.resx">
       <Link>Properties\Langs\Lang.ru.resx</Link>
     </EmbeddedResource>
@@ -566,6 +577,7 @@
       rd /s /q Langs\fr
       rd /s /q Langs\ko-KR
       rd /s /q Langs\pt-BR
+      rd /s /q Langs\pl
       rd /s /q Langs\ru
       rd /s /q Langs\tr
       rd /s /q Langs\ca-Es
@@ -574,6 +586,7 @@
       move fr Langs
       move ko-KR Langs
       move pt-BR Langs
+      move pl Langs
       move ru Langs
       move tr Langs
       move ca-Es Langs
