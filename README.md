@@ -1,10 +1,30 @@
-[中文](https://github.com/HandyOrg/HandyControl/blob/master/README-cn.md) - [English](https://github.com/HandyOrg/HandyControl/blob/master/README.md)
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/Cover.png">
+</p>
 
-![logo](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/icon.png)
+<p align="center">
+    <a href="https://github.com/HandyOrg/HandyControl/blob/master/README-cn.md">中文</a> 
+    ❤ 
+    <a href="https://github.com/HandyOrg/HandyControl/blob/master/README.md">English</a>
+</p>
 
-![dotnet-version](https://img.shields.io/badge/.net-%3E%3D4.0-blue.svg) ![csharp-version](https://img.shields.io/badge/C%23-8.0-blue.svg) ![IDE-version](https://img.shields.io/badge/IDE-vs2019-blue.svg) [![nuget-version](https://img.shields.io/nuget/v/HandyControl.svg)](https://www.nuget.org/packages/HandyControl) ![Github-build-status](https://github.com/HandyOrg/HandyControl/workflows/build/badge.svg) [![Join the chat at https://gitter.im/HandyControl/Lobby](https://badges.gitter.im/HandyControl/Lobby.svg)](https://gitter.im/HandyControl/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![wiki](https://img.shields.io/badge/wiki-Complete-brightgreen.svg)](https://github.com/ghost1372/HandyControl/wiki) [![Nuget](https://img.shields.io/nuget/dt/handycontrol)](https://www.nuget.org/packages/HandyControl)
-
-# Welcome to HandyControl
+<p align="center">
+    <img alt="dotnet-version" src="https://img.shields.io/badge/.net-%3E%3D4.0-blue.svg"></img>
+    <img alt="csharp-version" src="https://img.shields.io/badge/C%23-8.0-blue.svg"></img>
+    <img alt="IDE-version" src="https://img.shields.io/badge/IDE-vs2019-blue.svg"></img>
+    <a href="https://www.nuget.org/packages/HandyControl">
+        <img alt="nuget-version" src="https://img.shields.io/nuget/v/HandyControl.svg"></img>
+    </a> 
+    <a href="https://github.com/HandyOrg/HandyControl/actions?query=workflow%3Abuild">
+        <img alt="Github-build-status" src="https://github.com/HandyOrg/HandyControl/workflows/build/badge.svg"></img>
+    </a>
+    <a href="https://gitter.im/HandyControl/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+        <img alt="Join the chat at https://gitter.im/HandyControl/Lobby" src="https://badges.gitter.im/HandyControl/Lobby.svg"></img>
+    </a> 
+    <a href="https://www.nuget.org/packages/HandyControl">
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/handycontrol"></img>
+    </a> 
+</p>
 
 ## 面向中国
 
@@ -58,6 +78,7 @@
 <a href="https://github.com/GF-Huang" target="_blank"><img style="border-radius:50%!important" width="64px" alt="GF-Huang" src="https://avatars1.githubusercontent.com/u/4510984?s=64v=4"></a>
 <a href="https://github.com/cuiliang" target="_blank"><img style="border-radius:50%!important" width="64px" alt="cuiliang" src="https://avatars2.githubusercontent.com/u/1972649?s=64&v=4"></a>
 <a href="https://github.com/lwqwag" target="_blank"><img style="border-radius:50%!important" width="64px" alt="lwqwag" src="https://avatars3.githubusercontent.com/u/29883542?s=64&v=4"></a>
+<a href="https://github.com/Epacik" target="_blank"><img style="border-radius:50%!important" width="64px" alt="Epacik" src="https://avatars.githubusercontent.com/u/23077337?s=64&v=4"></a>
 
 ## Backers
 
