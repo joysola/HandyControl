@@ -21,6 +21,9 @@
     <SignAssembly>true</SignAssembly>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\HandyControl.xml</DocumentationFile>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netcoreapp3.0|AnyCPU'">
+    <DocumentationFile>K:\The Third Party\HandyControl\src\Net_GE45\HandyControl_Net_GE45\HandyControl.xml</DocumentationFile>
+  </PropertyGroup>
   <ItemGroup>
     <Compile Include="..\..\Shared\HandyControl_Shared\Properties\Langs\Lang.Designer.cs">
       <Link>Properties\Langs\Lang.Designer.cs</Link>
