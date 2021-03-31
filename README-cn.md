@@ -28,6 +28,10 @@
 
 ## 面向中国
 
+### 招聘
+
+百度地图，招WPF研发工程师，有兴趣私聊 836904362@qq.com
+
 ### 码云
 
 [https://gitee.com/handyorg/HandyControl/](https://gitee.com/handyorg/HandyControl/)
@@ -163,7 +167,7 @@ Step 4: Enjoy coding
 
 ## VS插件
 
-| [VS2019](https://marketplace.visualstudio.com/items?itemName=HandyOrg.handycontrolforvs2019) |
+| [VS2019](https://marketplace.visualstudio.com/items?itemName=HandyOrg.HandyControl) |
 | ------------- |
 
 ## Star趋势
